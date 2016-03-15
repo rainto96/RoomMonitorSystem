@@ -1,0 +1,2 @@
+# RoomMonitorSystem
+这是一个安卓项目，利用多个安卓手机利用蓝牙socket进行连接形成安防网络，当固定在门窗上的机器检测到震动时会给其它机器发送信号通知录像，同时也会利用新浪云服务给房间主人手持端发送通知通知房间内的情况。（This is an Android project which uses several Android Phone to form the safe monitor system by Bluetooth Socket communication. When the phones fixed on the door or windows perceive the vibration(by vibration sensor), they will send signals to other phones to take video or take photos and notify the lord of this room the situation appeared in this room by Sina Cloud Service. This app also support the setup for several rooms' monitor networks.）
